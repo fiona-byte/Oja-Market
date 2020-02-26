@@ -70,6 +70,17 @@
     box-shadow: 0 0 0 0.2rem rgba(231, 164, 40, 0.5);
 }
 
+.faqs {
+    padding-bottom: 10rem;
+}
+
+.faq-text {
+    color: #000;
+}
+
+.panel-group .panel .faq-text {
+    line-height: 3rem;
+}
 .ftco-services .services:hover .icon, .ftco-services .services:focus .icon {
     background: rgb(250, 102, 48);
 }
